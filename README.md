@@ -4,16 +4,22 @@
 
 下面是在visdom显示的注意力图：
 
-![result1](https://github.com/liAoI/PoemPytorch/row/origin/result1.png)
+![result1](https://github.com/liAoI/PoemPytorch/row/master/result1.PNG)
 
-![result2](https://github.com/liAoI/PoemPytorch/row/origin/result2.png)
 
-![result3](https://github.com/liAoI/PoemPytorch/row/origin/result3.png)
+![result2](https://github.com/liAoI/PoemPytorch/row/master/result2.PNG)
 
-![result4](https://github.com/liAoI/PoemPytorch/row/origin/result4.png)
 
-![result5](https://github.com/liAoI/PoemPytorch/row/origin/result5.png)
+![result3](https://github.com/liAoI/PoemPytorch/row/master/result3.PNG)
 
-![result6](https://github.com/liAoI/PoemPytorch/row/origin/result6.png)
 
-![result7](https://github.com/liAoI/PoemPytorch/row/origin/result7.png)
+![result4](https://github.com/liAoI/PoemPytorch/row/master/result4.PNG)
+
+
+![result5](https://github.com/liAoI/PoemPytorch/row/master/result5.PNG)
+
+
+![result6](https://github.com/liAoI/PoemPytorch/row/master/result6.PNG)
+
+
+![result7](https://github.com/liAoI/PoemPytorch/row/master/result7.PNG)
